@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER yanne (yannemaninzou@gmail.com)
+MAINTAINER yanne13 (yannemaninzou@gmail.com)
 
 ARG DEBIAN_FRONTEND=noninteractive
 
