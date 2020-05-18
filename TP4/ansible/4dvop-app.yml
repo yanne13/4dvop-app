@@ -15,7 +15,7 @@
       docker_container:
         name: haproxy
         hostname: haproxy 
-        image: dirane/4dvop-haproxy
+        image: yanne13/4devop-haproxy
         state: started
         links:  
           - nginx:nginx
